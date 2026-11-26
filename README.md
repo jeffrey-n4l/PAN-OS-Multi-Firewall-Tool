@@ -9,7 +9,7 @@ and saves the results as CSV and JSON.
 Go to the [**Releases**](../../releases/latest) page and download the file for your system:
 
 - **Mac** — `PAN-OS-Runner-mac.zip`
-- **Windows** — `PAN-OS-Runner-windows.zip` *(coming soon)*
+- **Windows** — `PAN-OS-Runner-windows.zip`
 
 You don't need Python or anything else installed — the app includes everything.
 
